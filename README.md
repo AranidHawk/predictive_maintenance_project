@@ -25,4 +25,4 @@
 - `data/`: Папка с данными.
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
-[https://youtube.com/watch?v=FrpXfXlmz40&feature=shared](video/demo.mp4)
+[https://youtube.com/watch?v=FrpXfXlmz40&feature=shared]
